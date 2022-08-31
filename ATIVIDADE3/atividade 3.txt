@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="author" content="Bruno">
+
+    <meta name="description" content="Aprendendo HTML">
+
+    <meta name="keywords" content="sites, web, html">
+
+    <title>ATIVIDADE 3</title>
+
+</head>
+
+<body>
+
+    <center><h1>Tecnologia 5G</h1></center>
+
+    <h2>&emsp;Introdução</h2>
+
+        <p>
+
+            Para melhor abordar este tema, começaremos pelo ponto de conexão que o 5G tem a oferecer, sendo uma evolução da tecnologia 4G, está relacionada a capacidade 
+
+            e a possibilidade de grande velocidade de resposta, transmissão de informação. Imagine em um mundo atualmente com uma operação mais rápida, instantaneamente 
+
+            dizendo, as funcionalidades humanas serão modificadas há um nível muito interessante.
+
+        </p>
+
+        <p>
+
+            O <strong>5G</strong> pode-se dizer que é uma ferramenta poderosa para utilização doméstica, financeira, trabalhista, na segurança, dentre outros. Há diversas 
+
+            possibilidades e conexões que serão ampliadas pela rede <strong>5G</strong> que facilitará a vida humana, não podemos deixar de usufruir tão tamanha tecnologia 
+
+            para evoluir, pelo contrário devemos ir cada vez mais fundo em função de otimização.
+
+        </p>
+
+
+
+    <h2>&emsp;Itens e Subitens do Tema</h2>
+
+        <ul>
+
+            <li>
+
+                <h3>O que é 5G?</h3>
+
+                    <p>
+
+                        Tecnologia <strong>5G</strong> é um novo fator que está sendo utilizados pelos dispositivos sem fios, que necessariamente trocam uma imensa quantidade 
+
+                        informações diariamente, além de ser uma tecnologia mais otimizada, veloz e capacitada para suportar a grande demanda de informação, o <strong>5G</strong> 
+
+                        é inovador no meio tecnológico em questões de impactos ambientais diminuindo a influência da tecnologia como um ponto causador.
+
+                    </p>
+
+                    <p>
+
+                        É uma melhor versão, ou até mesmo uma evolução do chamado <strong>4G</strong>, possibilitando uma conexão mais rápida com uma capacidade simultaneamente 
+
+                        de usuários utilizando as plataformas em dispositivos sem fio. Representa uma alta BandaLarga.
+
+                    </p>
+
+            </li>
+
+            <li>
+
+                <h3>O que é possível com a rede 5G?</h3>
+
+                    <p>
+
+                        <ol>
+
+                            <li>As redes <strong>5G</strong> devem consumir até 90% menos energia que as redes <strng>4G</strng> atuais;</li>
+
+                            <li>Os tempos de conexão entre aparelhos móveis devem ser inferiores a 5 ms (milissegundos), face à latência de 30 ms das redes <strong>4G</strong>;</li>
+
+                            <li>O número de aparelhos conectados por área devem ser 50 a 100 vezes maior que o atual;</li>
+
+                            <li>Devem ser realizados aumentos drásticos na duração da bateria de dispositivos rádio receptores.</li>
+
+                        </ol>           
+
+                    </p>
+
+                    <p>
+
+                        Também é valido pontuar a economia de energia gasta pela nova rede 5G, que reduzirá aproximadamente 90% da utilização de energia dos dispositivos. 
+
+                        Vários benefícios podem ser elevados a partir desta tecnologia, tanto na utilização de comunicação de carros autônomos, robôs realizando tarefas 
+
+                        especificas, tecnicamente humanas como uma cirurgia, e pela segurança como um todo.
+
+                    </p>
+
+                    <p>
+
+                        A rede <strong>5G</strong> irá disponibilizar um impacto gigante nas funcionalidades de comunicação, ligando aparelhos tecnológicos e realizando 
+
+                        diversos filtros de manipulação em tempo real, instantâneo. Outros fatores serão influenciados como na organização dos empregos, serviços e tarefas; 
+
+                        nos meios de segurança tanto na segurança da informação, quanto segurança pessoal, obtendo dispositivos, aplicativos que com a alta disponibilidade 
+
+                        de manipulação da informação, por exemplo será possível que carros conversem com aparelhos celulares ou relógios inteligentes automaticamente, sendo 
+
+                        possível evitar acidente de pedestre e veiculo, dentre outras diversas ideias que serão introduzidas na vida humana.
+
+                    </p>
+
+            </li>
+
+            <li>
+
+                <h3>Como funciona a rede 5G?</h3>
+
+                    <p>
+
+                        Funcionam por meio de ondas de rádio, que trabalham na variação de 600 e 700 MHz, 26 e 28 Ghz e 38 e 42 GHz.
+
+                    </p>
+
+                    <p>
+
+                            A rede <strong>5G</strong> permitirá que seja abrangida uma maior área de alcance das ondas, das antenas para transmissão de informações, 
+
+                            também sendo possibilitadas o seu direcionamento, deixando ode ser emitida para qualquer região a procura de um dispositivo. Para que a direção 
+
+                            seja apontada, será parametrizado uma maior ocorrências de dispositivos em uma determinada área, puxando assim as ondas de rádio.
+
+                    </p>
+
+
+
+            </li>
+
+        </ul>
+
+    <h2>&emsp;Conclusão</h2>
+
+        <p>
+
+            Entretanto a rede <strong>5G</strong> ser uma evolução fantástica no meio tecnológico, realizando diversas modificações na vida humana para que seja uma grande 
+
+            facilitadora de controle de informações sobre objetos, pertences ferramentas, será difícil a implementação dessa rede pela parte econômica, governamental, 
+
+            infraestrutura e também perante a sociedade sobre seu comportamento nesse meio de conexão extremamente rápido e facilitado.
+
+        </p>
+
+    <h2>&emsp;Referências</h2>
+
+        <p>
+
+            <a href="https://mundoeducacao.uol.com.br/informatica/rede-5g.htm" title="Tecnologia 5G" target="_blank">https://mundoeducacao.uol.com.br/informatica/rede-5g.htm</a>
+
+        </p>
+
+        <p>
+
+            <a href="http://repositorio.roca.utfpr.edu.br/jspui/bitstream/1/19374/1/CT-TELECOM-II-2016-02.pdf" title="Tecnologia 5G" target="_blank">http://repositorio.roca.utfpr.edu.br/jspui/bitstream/1/19374/1/CT-TELECOM-II-2016-02.pdf</a>
+
+        </p>
+
+</body>
+
+</html>
