@@ -1,0 +1,41 @@
+.pubg {
+    background-color: rgb(148, 211, 195);
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.csgo {
+    background-color: rgb(99, 135, 190);
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.ca {
+    background-color: rgb(211, 219, 132);
+    margin-left: 600px;
+    margin-right: 600px;
+}
+.texto {
+    margin-top: 15px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+}
+
+.icone {
+    
+    margin-top: 15px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+h1 {
+    color: rgb(252, 5, 5)
+}
+
+h3 {
+    color: white;
+    background-color: black;
+}
+
