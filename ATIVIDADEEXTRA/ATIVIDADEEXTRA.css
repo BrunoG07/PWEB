@@ -1,0 +1,49 @@
+#mudacor {
+    background-color: blue;
+}
+
+@media screen and (max-device-width: 1920px)
+              and (min-device-width: 1367px){
+	
+	#mudacor {
+		background-color: darkgoldenrod;
+    }
+}
+    
+@media screen and (max-device-width: 1366px) 
+              and (min-device-width: 1081px){
+
+    #mudacor {
+        background-color: darkslateblue;
+    }
+}
+
+@media screen and (max-device-width: 1080px) 
+              and (min-device-width: 1025px){
+
+    #mudacor {
+        background-color: indianred;
+    }
+}
+
+@media screen and (max-device-width: 1024px) 
+              and (min-device-width: 769px) {         
+    #mudacor {
+        background-color: fuchsia;
+    }
+}
+
+@media screen and (max-device-width: 768px) 
+              and (min-device-width: 421px){
+
+    #mudacor {
+        background-color: peru;
+    }
+}
+
+@media screen and (max-device-width: 420px){
+
+    #mudacor {
+        background-color: darkgray;
+    }
+}
