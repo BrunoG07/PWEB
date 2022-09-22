@@ -1,0 +1,68 @@
+.titulo {
+    font-size: x-large;
+    font-weight: 6.25em;
+    background-color: lightblue;
+}
+
+.sequencia1 {
+    background-color: darkgray;
+    border: 0.0625em;
+    border-color: black;
+    border-style: groove;
+    margin-top: 3.125em;
+    margin-bottom: 3.125em;
+    display: grid;
+    grid-gap:0.625em;
+    grid-template-columns:auto;
+    grid-template-rows:3.125em 26.25em;
+    grid-template-areas: 'a b c';
+}
+
+.sequencia2 {
+    background-color: darkgray;
+    border: 0.0625em;
+    border-color:black;
+    border-style: groove;
+    margin-top: 3.125em;
+    margin-bottom: 3.125em;
+    display: grid;
+    grid-gap:0.625em;
+    grid-template-columns:auto;
+    grid-template-rows:3.125em 26.25em;
+    grid-template-areas: 'd e f';
+}
+
+.p1 {
+    text-align: justify;
+    margin: 1em;
+}
+.p2 {
+    text-align: justify;
+    margin: 1em;
+}
+.p3 {
+    text-align: justify;
+    margin: 1em;
+}
+.p4 {
+    text-align: justify;
+    margin: 1em;
+}
+.p5 {
+    text-align: justify;
+    margin: 1em;
+}
+.p6 {
+    text-align: justify;
+    margin: 1em;
+}
+.conteudo {
+    margin-left: 0.625em;
+    margin-right: 0.625em;
+    border: 0.0625em;
+    border-style: groove;
+    border-color: blue;
+}
+.principal {
+    margin: 1em;
+}
