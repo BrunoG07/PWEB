@@ -1,0 +1,15 @@
+body{
+    background-image: url(Img.webp);
+    background-size: cover;
+    align-items: center;
+}
+
+label{
+    font-weight: bolder;
+}
+
+option{
+    color: rgb(26, 0, 219);
+    font-weight: bolder;
+}
+
