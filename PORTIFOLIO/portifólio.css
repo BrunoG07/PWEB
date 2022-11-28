@@ -1,0 +1,47 @@
+.img{
+    border-radius: 50%;
+    border-color: black;
+    border-style: groove;
+}
+
+.subtitulos{
+    background-color: green;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 1em;
+    padding-left: 1em; 
+    color: black;  
+}
+
+.paragrafo{
+    background-color: lightgreen;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 1em;
+    color: black;
+    margin: 2em;
+    padding: 2em;
+    border-color: black;
+    border-style: groove;
+}
+
+.endereco{
+    margin-top: 1em;
+    background-color: aliceblue;
+    border-style: groove;
+    border-color: black;
+}
+.frase{
+    margin: 1em;
+}
+
+.fundo{
+    background-image: url("bombeiro.jfif");
+}
+.card{
+    border-color: black;
+    border-style: groove;
+}
+.titulos{
+    color: black;
+}
